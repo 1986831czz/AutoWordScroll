@@ -1,0 +1,2 @@
+# AutoWordScroll
+Horizontal scroll subtitles
